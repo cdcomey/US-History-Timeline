@@ -1,0 +1,30 @@
+<category>;128;128;128
+Administration/Reign;0;255;0
+American Indians;255;216;177
+Battle/Attack/Siege;75;0;130
+Census/Statistic;0;192;0
+Conflict with under 1000 deaths;255;0;0
+Conflict with over 1000 deaths;224;0;0
+Conflict with over 10,000 deaths;192;0;0
+Conflict with over 100,000 deaths;160;0;0
+Conflict with over 1 million deaths;128;0;0
+Constitution/Charter;0;1
+Economy;255;255;0
+Election;0;255;255
+Exploration;0;0;255
+General period;192;192;192
+Governing entity;255;250;200
+Holiday/National observance;128;0;255
+Ideology/Political Party;128;0;128
+Immigration/Migration;255;216;177
+Individual;0;0;0
+Invention/Construction;128;128;0
+Legislation/Policy;0;128;0
+Literature/Speech;255;255;255
+Military;255;0;128
+Natural Disaster;0;0;128
+Organization/Company;255;128;128
+Protest/Riot;255;128;0
+Sport;255;0;255
+Territory change;192;239;69
+Treaty/Foreign policy;0;128;255
